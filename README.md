@@ -7,7 +7,7 @@
 * 🧐   Interested in full stack. Recent focus on JavaScript.
 * 💼   Looking for internship opportunities.
 * 🎓   Undergraduate of SUT in Computer Science. Major GPA 3.42/4.0, TOP 10%. Hard to Learning.
-* 🌱   Currently learning JavaScript, vue3, Python, TCP/IP & .
+* 🌱   Currently learning JavaScript, vue3, Python, TCP/IP & Mathematical model.
 * 📚   Reading 《JavaScript: The Definitive Guide (7th Edition)》《윤성우의 열혈 TCP/IP 소켓 프로그래밍》.
 * 💻   Persist in algorithm practice and programming daily.
 * ⛵   Encouraging people for open source collaborations and learing for new technical ability.
