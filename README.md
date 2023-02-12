@@ -20,6 +20,7 @@
 * 💖   Be proud of SUT. 🐾 My heart is in the work. 
 * 🎉   I love ACM / IEEE / IEEE-CS / CCF.
 * 🍎   I am useing Mac to develop.👨🏻‍💻 & Apple fans.🤪
+* 🧍‍♂   Big fan of halfrost.
 
 <p align="center">
 <!-- <img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a> -->
