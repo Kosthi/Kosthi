@@ -64,12 +64,6 @@
 ---
 
 <!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br>
-  <samp>
-  </samp>
-</p>
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
