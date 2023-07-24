@@ -4,7 +4,7 @@
 
 <!-- I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈     -->
 
-* 🔭   I’m currently working on FinalExam in June.
+* 🔭   I’m currently working on CSC-DB Contest in July.
 * 🧐   Interested in full stack. Recent focus on C++.
 * 💼   Looking for internship opportunities.
 * 🎓   Undergraduate of SUT in Computer Science. Major GPA 3.42/4.0, TOP 10%. Hard to Learning.
