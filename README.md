@@ -35,8 +35,9 @@
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=kosthi&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
-<img align="center" src="https://github-readme-stats.zohan.tech/api?username=kosthi&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="kosthi's Github Stats" />
+<img align="center" src="https://github-readme-stats-kosthi.vercel.app/api/top-langs/?username=kosthi&size_weight=0&count_weight=0.8&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats-kosthi.vercel.app/api/?username=kosthi&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="kosthi's Github Stats" />
+<img align="center" src="https://github-readme-stats-kosthi.vercel.app/api/wakatime?username=koschei&column=7&layout=compact" alt="kosthi's Wakatime" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=kosthi&column=7" alt="kosthi's Github Trophy" />
 <!-- <img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
 </p> -->
