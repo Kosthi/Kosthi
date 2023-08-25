@@ -39,8 +39,6 @@
 <img align="center" src="https://github-readme-stats-kosthi.vercel.app/api/?username=kosthi&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="kosthi's Github Stats" />
 <img align="center" src="https://github-readme-stats-kosthi.vercel.app/api/wakatime?username=koschei&column=7&layout=compact" alt="kosthi's Wakatime" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=kosthi&column=7" alt="kosthi's Github Trophy" />
-<!-- <img align="center" src="https://github.com/halfrost/halfrost/raw/master/timeline-drop/output/dropped-timeline-halfrost.gif" />
-</p> -->
 
 </details>
 
