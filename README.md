@@ -12,7 +12,7 @@
 * 📚   Reading 《JavaScript: The Definitive Guide (7th Edition)》《윤성우의 열혈 TCP/IP 소켓 프로그래밍》.
 * 💻   Persist in algorithm practice and programming daily.
 * ⛵   Encouraging people for open source collaborations and learing for new technical ability.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [~Personal Blog~](https://sutcoder.com/).
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [~Personal Blog~](https://neukaoyan.cn/).
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
