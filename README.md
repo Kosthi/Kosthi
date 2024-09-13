@@ -4,12 +4,12 @@
 
 <!-- I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈     -->
 
-* 🔭   I’m currently working on CSCC-DB in 2025.
+* 🔭   I’m currently working on CSCC-PB&OB in 2024 Winter.
 * 🧐   Interested in Database System. Recent focus on C++.
-* 💼   Looking for internship opportunities.
-* 🎓   Undergraduate of SUT in Computer Science. Major GPA 3.42/4.0, TOP 10%. Hard to Learning.
+* 💼   Looking for employment opportunities.
+<!-- * 🎓   Undergraduate of SUT in Computer Science. Major GPA 3.42/4.0, TOP 10%. Hard to Learning. -->
 * 🌱   Currently learning C++17, Go, Vector DBMS.
-* 📚   Reading 《JavaScript: The Definitive Guide (7th Edition)》《윤성우의 열혈 TCP/IP 소켓 프로그래밍》.
+<!-- * 📚   Reading 《JavaScript: The Definitive Guide (7th Edition)》《윤성우의 열혈 TCP/IP 소켓 프로그래밍》. -->
 * 💻   Persist in algorithm practice and programming daily.
 * ⛵   Encouraging people for open source collaborations and learing for new technical ability.
 * ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://koschei.top/).
@@ -20,7 +20,7 @@
 
 * 💖   Be proud of myself. 🐾 My heart is in the work. 
 * 🎉   I love ACM / IEEE / IEEE-CS / CCF.
-* 🍎   I am useing Mac to develop.👨🏻‍💻 & Apple fans.🤪
+* 🍎   I am using Macbook Pro to develop.👨🏻‍💻 & Apple fans.🤪
 * 🧍‍♂   Big fan of *chen & halfrost.
 
 <p align="center">
