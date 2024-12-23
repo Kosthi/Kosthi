@@ -4,7 +4,7 @@
 
 <!-- I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈     -->
 
-* 🔭   I’m currently working on CSCC-PB&OB in 2024 Winter.
+* 🔭   I’m currently working on CSCC-OB in 2024 Winter.
 * 🧐   Interested in Database System. Recent focus on C++.
 * 💼   Looking for employment opportunities.
 * 🌱   Currently learning C++17, Go, Vector DBMS.
