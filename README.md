@@ -23,17 +23,6 @@
 * 🍎   I am using Macbook Pro to develop.👨🏻‍💻 & Apple fans.🤪
 * 🧍‍♂   Big fan of *chen & halfrost.
 
-<!-- * 🎉   I love ACM / IEEE / IEEE-CS / CCF. -->
-<!--
-<p align="center">
-<!-- <img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a> -->
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-</p> -->
-
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
