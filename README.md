@@ -20,9 +20,10 @@
   <br>
 
 * 💖   Be proud of myself. 🐾 My heart is in the work. 
-<!-- * 🎉   I love ACM / IEEE / IEEE-CS / CCF. -->
 * 🍎   I am using Macbook Pro to develop.👨🏻‍💻 & Apple fans.🤪
 * 🧍‍♂   Big fan of *chen & halfrost.
+
+<!-- * 🎉   I love ACM / IEEE / IEEE-CS / CCF. -->
 
 <!--
 <p align="center">
