@@ -24,7 +24,6 @@
 * 🧍‍♂   Big fan of *chen & halfrost.
 
 <!-- * 🎉   I love ACM / IEEE / IEEE-CS / CCF. -->
-
 <!--
 <p align="center">
 <!-- <img src="https://github.com/halfrost/halfrost/blob/master/icons/CMU.png" height="100" width="100"/></a> -->
