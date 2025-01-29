@@ -3,10 +3,10 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <!-- I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈     -->
+<!-- * 🔭   I’m currently working on CSCC-OB in 2024 Winter. -->
 
-* 🔭   I’m currently working on CSCC-OB in 2024 Winter.
-* 🧐   Interested in Database System. Recent focus on C++.
 * 💼   Looking for employment opportunities.
+* 🧐   Interested in Database System. Recent focus on C++.
 * 🌱   Currently learning C++17, Go, Vector DBMS.
 * 💻   Persist in algorithm practice and programming daily.
 * ⛵   Encouraging people for open source collaborations and learing for new technical ability.
