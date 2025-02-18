@@ -7,7 +7,7 @@
 
 * 💼   Looking for employment opportunities.
 * 🧐   Interested in Database System. Recent focus on C++.
-* 🌱   Currently learning C++17, Go, Vector DBMS.
+* 🌱   Currently learning C++17, Go.
 * 💻   Persist in algorithm practice and programming daily.
 * ⛵   Encouraging people for open source collaborations and learing for new technical ability.
 
