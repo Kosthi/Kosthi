@@ -3,7 +3,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 * 💼   Looking for employment opportunities.
-* 🧐   Interested in Backend. Recent focus on C++.
+* 🧐   Interested in System. Recent focus on C++.
 * 🌱   Currently learning C++17, Go.
 * 💻   Persist in algorithm practice and programming daily.
 * ⛵   Encouraging people for open source collaborations and learing for new technical ability.
