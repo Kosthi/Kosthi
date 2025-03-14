@@ -2,11 +2,11 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-* 💼   Looking for employment opportunities.
-* 🧐   Interested in System. Recent focus on C++.
-* 🌱   Currently learning C++17, Go.
-* 💻   Persist in algorithm practice and programming daily.
-* ⛵   Encouraging people for open source collaborations and learing for new technical ability.
+<!-- * 💼   Looking for employment opportunities. -->
+* 🧐 Passionate about Artificial Intelligence and its applications.
+* 🌱 Currently diving deep into C++17 and Go to expand my programming toolkit.
+* 💻 Committed to daily algorithm practice and coding challenges to sharpen my skills.
+* ⛵ A strong advocate for open-source collaboration and continuous learning of new technologies.
 
 <hr>
 <p align="center"> <i>Take a look at my repositories and let's get in touch!</i>
