@@ -8,6 +8,15 @@
 * 💻 Committed to daily algorithm practice and coding challenges to sharpen my skills.
 * ⛵ A strong advocate for open-source collaboration and continuous learning of new technologies.
 
+<!-- Copy-paste in your Readme.md file -->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=30976463" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=30976463&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Kosthi" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=30976463&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 <hr>
 <p align="center"> <i>Take a look at my repositories and let's get in touch!</i>
 <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=kosthi.kosthi" alt="visitor badge"/></p>
